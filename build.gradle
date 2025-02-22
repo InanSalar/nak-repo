@@ -22,4 +22,4 @@ task clean(type: Delete) {
     delete rootProject.buildDir
 }
 
-// I hate android-java :(
+// I love android-java :)
